@@ -14,19 +14,19 @@ Many organizations have created a separate team, or multiple teams, to handle da
 
 Here are roles I typically see on high preforming data science teams:
 
-**Data Engineer.** Responsibilities include setting up data pipelines and assisting with data preparation and model implementation, working closely with data scientists. Tool of choice: SQL.
+Data Engineer. Responsibilities include setting up data pipelines and assisting with data preparation and model implementation, working closely with data scientists. Tool of choice: SQL.
 
-**Data analyst.** This is a lower-level position for analytics professionals who do not have the level of experience or advanced skills that data scientists have. Tool of choice: Excel.
+Data analyst. This is a lower-level position for analytics professionals who do not have the level of experience or advanced skills that data scientists have. Tool of choice: Excel.
 
-**Machine learning engineer.** This programming-oriented work involves developing the machine learning models necessary for data science applications. Tool of choice: Java.
+Machine learning engineer. This programming-oriented work involves developing the machine learning models necessary for data science applications. Tool of choice: Java.
 
-**Data visualization developer.** This person works with data scientists to create visualizations and dashboards that are used to present analysis results to business users.Tool of choice: Tableau, Spotfire, or PowerBI.
+Data visualization developer. This person works with data scientists to create visualizations and dashboards that are used to present analysis results to business users.Tool of choice: Tableau, Spotfire, or PowerBI.
 
-**Data translator.** Also called an analytical translator, it is an emerging role that serves as a liaison with business units and helps plan projects and communicate results. Tool of choice: Powerpoint.
+Data translator. Also called an analytical translator, it is an emerging role that serves as a liaison with business units and helps plan projects and communicate results. Tool of choice: Powerpoint.
 
-**Data architect.** A data architect designs and oversees the implementation of the underlying systems used to store and manage data for analytical uses. Tool of choice: whiteboard.
+Data architect. A data architect designs and oversees the implementation of the underlying systems used to store and manage data for analytical uses. Tool of choice: whiteboard.
 
-**Data scientist.** This is the role that actually builds machine learning models by applying known algorithms to data to get the best possible (and repeatable) results. Tool of choice: Python.
+Data scientist. This is the role that actually builds machine learning models by applying known algorithms to data to get the best possible (and repeatable) results. Tool of choice: Python.
 
 ### Related Stories
 - [[4 Types of Business Analytics](https://medium.com/@kylejones_47003/4-types-of-business-analytics-9407f22d7585)]
