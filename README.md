@@ -11,14 +11,7 @@ Data Engineer. Responsibilities include setting up data pipelines and assisting 
 
 Data analyst. This is a lower-level position for analytics professionals who do not have the level of experience or advanced skills that data scientists have. Tool of choice: Excel.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
